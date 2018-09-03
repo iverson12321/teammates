@@ -6,3 +6,5 @@ fix issue2
 my dev job is done
 
 add dev small change by another 22
+add dog class by me
+
