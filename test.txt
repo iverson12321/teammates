@@ -3,3 +3,4 @@ add this line from master
 add this line from feature1
 fix issue001
 fix issue2
+my dev job is done
